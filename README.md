@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я <a href="#" target="_blank"> Лиза 👋</a> 
-<h3 align="center">Ниже мои танцы с бубной и JS 👯</h3>
+<h3 align="center">Ниже мои танцы с бубном и JS 👯</h3>
 
 <!--
 **burlake/burlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
