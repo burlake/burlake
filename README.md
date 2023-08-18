@@ -1,6 +1,4 @@
-###  Привет 👋
-
-<h1 align="center">Я <a href="#" target="_blank"> Лиза 👋</a> 
+<h1 align="center">Привет, я <a href="#" target="_blank"> Лиза 👋</a> 
 <h3 align="center">Ниже мои танцы с бубной и JS 👯</h3>
 
 <!--
