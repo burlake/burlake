@@ -1,5 +1,23 @@
 <h1 align="center">Привет, я <a href="#" target="_blank"> Лиза 👋</a> 
-<h3 align="center">Ниже мои танцы с бубном и JS 👯</h3>
+<h3 align="center"> Пока просто радуюсь плашкам со статистикой по  <a href="https://habr.com/ru/articles/649363/" target="_blank">статье</a> и осваиваю md разметку</h3>
+
+
+
+![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=burlake&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burlake)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=burlake)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=your-github-burlake)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlake&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burlake&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlake&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlake&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=burlake&theme=solarized_dark)
+
+<h3>а ниже мои танцы с бубном и JS 👯</h3>
 
 <!--
 **burlake/burlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
