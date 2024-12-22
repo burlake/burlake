@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я <a href="#" target="_blank"> Лиза 👋</a> 
-<h3 align="center"> Пока просто радуюсь плашкам со статистикой по  <a href="https://habr.com/ru/articles/649363/" target="_blank">статье</a></h3>
+<h3 align="center"> Выгорела в процессе учебы на курсах Яндекс.Практикума  <a href="https://habr.com/ru/articles/649363/" target="_blank">статье</a></h3>
 
 
-
+<!--
 ![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=burlake&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burlake)](https://git.io/streak-stats)
 
@@ -19,7 +19,7 @@
 
 <h3>а ниже мои танцы с бубном и JS 👯</h3>
 
-<!--
+
 **burlake/burlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
